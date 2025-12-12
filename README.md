@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer – Web & App Development
+Software Engineering👨‍💻 – Web & App Development
 
 
 ## 🌐 Socials:
