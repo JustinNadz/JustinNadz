@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer👨‍💻 – Web & App Development
+Software Engineer 👨‍💻 – Web & App Development
 
 
 ## 🌐 Socials:
