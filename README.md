@@ -1,22 +1,122 @@
-# 💫 About Me:
-Software Engineer 👨‍💻 – Web & App Development
+<h1 align="center"> <span style="color:#4A90E2;">JUSTIN NADELA</span></h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Software+%26+Full+Stack+Engineer;Web+Architecture;Always+Exploring+Future+Tech" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khabi_itzx/?igsh=OXlrZ3hwNXhncGd0&utm_source=qr#) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justinnadela2@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JustinNadz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JustinNadz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinNadz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://facebook.com/"><img src="https://skillicons.dev/icons?i=facebook" width="35" /></a> <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a> <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" width="35" /></a> <a href="mailto:email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JustinNadz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">✨ About Me</h2>
 
+<p align="left">
+I’m a <b>Full-Stack Developer</b> with 3.5+ years of experience blending clean, high-performance architecture with refined modern user interfaces. <br><br>
+Driven by a passion for continuous learning and open-source contributions, I transitioned from managing enterprise IT operations at FSUU to architecting robust web and mobile applications.<br><br>
+My professional background spans from building comprehensive end-to-end solutions for startups and SMBs, to acting as a Software Engineering Lead directing SaaS architecture.
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=JustinNadz&limit=10&theme=dark&combine_all_yearly_contributions=true)
+---
+
+<h2 align="center">💻 General Skills</h2>
+
+<table align="center">
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" />
+    <br><b>React</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" />
+    <br><b>Next.js</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" />
+    <br><b>Laravel</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" />
+    <br><b>Node.js</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
+    <br><b>PostgreSQL</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" />
+    <br><b>Docker</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" />
+    <br><b>JavaScript</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" />
+    <br><b>TypeScript</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" />
+    <br><b>Tailwind</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" />
+    <br><b>Figma</b>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
+    <br><b>Python</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
+    <br><b>PHP</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" />
+    <br><b>Vue</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" />
+    <br><b>Supabase</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" />
+    <br><b>Firebase</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" />
+    <br><b>AWS</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+    <br><b>Git</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
+    <br><b>C++</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=swift" width="45" height="45" />
+    <br><b>Swift</b>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" />
+    <br><b>Linux</b>
+  </td>
+</tr>
+</table>
+
+---
+
+- **Core Frameworks:** React, Next.js, Laravel, Node.js, Vue
+- **Languages & Fundamentals:** JavaScript, TypeScript, PHP, Python, C++, Swift, HTML5, CSS3/Sass
+- **Deployment & Cloud:** Docker, AWS, Firebase, Supabase, Vercel
+- **Data & Databases:** PostgreSQL, MySQL, Redis
+- **Tools & Design:** Figma, Git, Postman, Linux
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
