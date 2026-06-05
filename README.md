@@ -1,21 +1,45 @@
+```html
 <h1 align="center">JUSTIN KIM P. NADELA</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Software+%26+Full-Stack+Engineer;Web+Architecture;AI-Powered+%26+Scalable+Apps;Always+Exploring+Future+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Building+Scalable+Applications;AI-Powered+Solutions;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <a href="https://facebook.com/"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>&nbsp;
-  <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" width="35" /></a>&nbsp;
-  <a href="mailto:justinnadela2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
+  <b>Full-Stack Software Engineer • AI Enthusiast • Cybersecurity Learner</b>
+</p>
+
+<p align="center">
+  <a href="mailto:justinnadela2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <h2 align="center">✨ About Me</h2>
-<p align="left">
-I'm a <b>Software Developer and Technology Enthusiast</b> with experience building modern web applications, AI-powered and scalable software solutions using React, Django, Laravel, Node.js, Express.js, and MySQL.<br><br>
-Passionate about <b>software engineering, cybersecurity, and emerging technologies</b>, with strong skills in frontend development, backend architecture, REST API integration, database management, and UI/UX design.<br><br>
-Experienced in building real-world projects — from management systems and climate-tech platforms to intelligent web applications — with a focus on clean code, performance, problem-solving, and continuous learning.
+
+<p align="center">
+Passionate Full-Stack Software Engineer focused on building scalable web applications,
+exploring emerging technologies, and creating impactful digital experiences through
+clean, efficient, and maintainable code.
 </p>
 
-<h2 align="center">💻 General Skills</h2>
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+AI-Powered Applications • Cloud Technologies • Backend Architecture •
+Cybersecurity • Scalable Software Engineering
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
 <table align="center">
 <tr>
   <td align="center" width="90">
@@ -49,6 +73,7 @@ Experienced in building real-world projects — from management systems and clim
     <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" /><br><b>Docker</b>
   </td>
 </tr>
+
 <tr>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" /><br><b>JavaScript</b>
@@ -81,6 +106,7 @@ Experienced in building real-world projects — from management systems and clim
     <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" /><br><b>AWS</b>
   </td>
 </tr>
+
 <tr>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=git" width="45" height="45" /><br><b>Git</b>
@@ -114,14 +140,13 @@ Experienced in building real-world projects — from management systems and clim
   </td>
 </tr>
 </table>
-<br/>
 
-Core Frameworks: React, Next.js, Laravel, Node.js, Django, FastAPI, Vue
-Languages & Fundamentals: JavaScript, TypeScript, PHP, Python, C++, Swift, HTML5, CSS3/Sass
-Deployment & Cloud: Docker, AWS, Firebase, Supabase, Vercel, Railway, Render
-Data & Databases: PostgreSQL, MySQL, Redis
-Tools & Design: Figma, Git, Postman, Prisma, Linux
+<p align="center">
+  Building modern applications with React, Laravel, Django, Node.js,
+  cloud technologies, and scalable backend architectures.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+```
